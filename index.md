@@ -1,14 +1,13 @@
 ## Welcome to My Blog
 
-这里是一个蒟蒻的blog,分享学习过程遇到的问题和我的理解与解答,欢迎和我一起讨论学习,不胜感激!
+这里是一个新人的blog,分享学习过程遇到的问题和我的理解与解答,欢迎和我一起讨论学习,不胜感激!
 
 以下是我安装anaconda时遇到的一些问题,希望我的回答能够帮到你
 
 ### 安装anaconda的环境变量配置
 
+[image](i src melolowb.Github.io/image/capture_20191125204838603.bmp)
 
-
-```markdown
 Syntax highlighted code block
 
 # Header 1
