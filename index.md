@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to My Blog
 
-You can use the [editor on GitHub](https://github.com/projaet/melolowb.Github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+这里是一个蒟蒻的blog,分享学习过程遇到的问题和我的理解与解答,欢迎和我一起讨论学习,不胜感激!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+以下是我安装anaconda时遇到的一些问题,希望我的回答能够帮到你
 
-### Markdown
+### 安装anaconda的环境变量配置
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
