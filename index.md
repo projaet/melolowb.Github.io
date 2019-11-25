@@ -6,8 +6,8 @@
 
 ### 安装anaconda的环境变量配置
 
-![image](D:\git1\melolowb.Github.io\image\capture_20191125204838603.bmp)
-![image](D:\git1\melolowb.Github.io\image\capture_20191125204856371.bmp)
+![image](melolowb.Github.io\image\capture_20191125204838603.bmp)
+![image](melolowb.Github.io\image\capture_20191125204856371.bmp)
 
 
 # Header 1
